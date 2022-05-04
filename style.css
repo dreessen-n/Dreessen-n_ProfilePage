@@ -13,4 +13,5 @@ table, th, td {
 
 .profile-pic {
     border-radius: 25px;
+    border: 1px solid black;
 }
