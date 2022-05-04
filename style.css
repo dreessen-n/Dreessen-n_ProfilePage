@@ -3,3 +3,10 @@
 table, th, td {
     border: 1px solid black;
 }
+
+.message {
+    display: flex;
+    align-content:flex-start;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
